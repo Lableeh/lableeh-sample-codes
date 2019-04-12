@@ -34,9 +34,9 @@ class Body extends Component{
     }
 
 render(){
-    // const {name} = this.state
-    // const {age} = this.state
-    // const {gender} = this.state
+    const {name} = this.state
+    const {age} = this.state
+    const {gender} = this.state
     return(
         <div className='body'>
         <div className="wrapper">
