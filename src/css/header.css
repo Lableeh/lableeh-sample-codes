@@ -1,0 +1,12 @@
+.header{
+	text-align: center;
+	display: inline-block;
+}
+
+.register{ 	
+	width: 50%;
+	height: 50%;
+    position: relative;
+	left: 60%;
+	margin-top:5%;
+}
